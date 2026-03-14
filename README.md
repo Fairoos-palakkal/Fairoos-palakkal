@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/images/preview.png" width="800" alt="Project Preview">
+  <img src="./assets/images/preview.png" width="800" alt="Project Preview"/>
 </p>
-
 
 
 # <img width="27px" height="50"  style="padding-right:20px;"  alt="icons8-yin-yang-50" src="https://github.com/user-attachments/assets/53d05f72-1598-4a48-927b-9821614c435d" /> Fairoos Palakkal
