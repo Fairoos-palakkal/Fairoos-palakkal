@@ -82,13 +82,13 @@ Currently based in **Abu Dhabi, UAE** — actively looking for **AI Developer / 
 <!-- Upload binary-coding-programming_3840x2160.mp4 renamed as demo.mp4 to your repo root -->
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/demo.mp4">
+  <a href="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/demo.mp4">
     <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Click%20to%20Play-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/demo.mp4"
+  <video src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/demo.mp4"
          controls
          width="800">
   </video>
@@ -222,3 +222,4 @@ If a model can't answer those questions, it's not ready.
 <p align="center">
   <sub>Fairoos Palakkal · AI Developer · Abu Dhabi, UAE · Open to opportunities</sub>
 </p>
+
