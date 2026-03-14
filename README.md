@@ -1,6 +1,5 @@
-<!-- ─── HERO BANNER ─── -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fairoos-palakkal/fairoos-palakkal/main/preview_png.jpg"
+  <img src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/preview.png"
        width="100%"
        alt="Fairoos Palakkal – AI Developer Banner"/>
 </p>
@@ -78,21 +77,10 @@ Currently based in **Abu Dhabi, UAE** — actively looking for **AI Developer / 
 
 ---
 
-## 🎬 Demo
-
-<!-- GitHub profile READMEs do NOT render <video> tags.
-     Use a clickable thumbnail that links to the raw video instead. -->
-
 <p align="center">
-  <a href="https://raw.githubusercontent.com/fairoos-palakkal/fairoos-palakkal/main/demo.mp4">
-    <img src="https://raw.githubusercontent.com/fairoos-palakkal/fairoos-palakkal/main/preview_png.jpg"
-         width="700"
-         alt="▶ Click to watch demo"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>▶ Click the image above to watch · OCR Pipelines · Object Detection · Backend APIs</sub>
+  <img src="https://raw.githubusercontent.com/fairoos-palakkal/fairoos-palakkal/main/tech-stack.gif"
+       width="600"
+       alt="AI & ML Tech Stack in Action"/>
 </p>
 
 ---
