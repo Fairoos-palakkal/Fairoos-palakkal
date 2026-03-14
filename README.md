@@ -77,13 +77,6 @@ Currently based in **Abu Dhabi, UAE** — actively looking for **AI Developer / 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fairoos-palakkal/fairoos-palakkal/main/tech-stack.gif"
-       width="600"
-       alt="AI & ML Tech Stack in Action"/>
-</p>
-
----
 
 ## 🧠 Core Skills
 
