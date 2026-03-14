@@ -77,20 +77,6 @@ Currently based in **Abu Dhabi, UAE** — actively looking for **AI Developer / 
 
 ---
 
-## 🎬 Demo
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/demo.gif"
-       width="800"
-       alt="AI Systems Demo"/>
-</p>
-
-<p align="center">
-  <sub>OCR Pipelines &nbsp;·&nbsp; Object Detection &nbsp;·&nbsp; Backend APIs</sub>
-</p>
-
----
-
 ## 🧠 Core Skills
 
 <table>
@@ -189,6 +175,19 @@ Every project I ship answers three questions:
 > **What problem does it solve? What does the output look like? How do you measure whether it worked?**
 
 If a model can't answer those questions, it's not ready.
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/demo.gif"
+       width="800"
+       alt="AI Systems Demo"/>
+</p>
+
+<p align="center">
+  <sub>OCR Pipelines &nbsp;·&nbsp; Object Detection &nbsp;·&nbsp; Backend APIs</sub>
+</p>
+
+
 
 ---
 
