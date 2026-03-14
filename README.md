@@ -176,7 +176,7 @@ Every project I ship answers three questions:
 
 If a model can't answer those questions, it's not ready.
 
----
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/demo.gif"
        width="800"
