@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/preview.png.jpg
+  <img src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/preview.png.jpg"
        width="100%"
        alt="Fairoos Palakkal – AI Developer Banner"/>
 </p>
@@ -77,6 +77,28 @@ Currently based in **Abu Dhabi, UAE** — actively looking for **AI Developer / 
 
 ---
 
+## 🎬 Demo
+
+<!-- Upload binary-coding-programming_3840x2160.mp4 renamed as demo.mp4 to your repo root -->
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/demo.mp4">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Click%20to%20Play-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/demo.mp4"
+         controls
+         width="800">
+  </video>
+</p>
+
+<p align="center">
+  <sub>OCR Pipelines &nbsp;·&nbsp; Object Detection &nbsp;·&nbsp; Backend APIs</sub>
+</p>
+
+---
 
 ## 🧠 Core Skills
 
