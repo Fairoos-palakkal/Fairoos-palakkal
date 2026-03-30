@@ -34,11 +34,14 @@
 
 ## 👋 About Me
 
-I'm an AI developer with a background in **Artificial Intelligence & Data Science**, focused on building systems that move from experiment to production. My work spans computer vision pipelines, OCR extraction engines, real-time object detection, and backend APIs that tie it all together.
+I design and build real-time computer vision systems for surveillance, identity verification, and automation.
 
-Most of my projects have a clear output: a working system, a deployment endpoint, or a measurable improvement over a baseline. I'm not interested in models that only run in Jupyter — I care about the **full loop** from data to inference to API response.
+My work focuses on end-to-end AI pipelines — from data processing and model training to low-latency inference and API deployment. I specialize in face recognition, object detection (YOLOv8), OCR pipelines, and system integration with backend services.
 
-Currently based in **Abu Dhabi, UAE** — actively looking for **AI Developer / ML Engineer** roles.
+I prioritize production readiness: measurable performance (FPS, latency), robustness under real-world conditions (lighting, occlusion), and scalable deployment.
+
+Currently building multi-camera AI systems with tracking and optimized inference pipelines.
+
 
 ---
 
@@ -114,13 +117,20 @@ Currently based in **Abu Dhabi, UAE** — actively looking for **AI Developer / 
 
 </td>
 <td valign="top" width="25%">
-
+  
 **🚀 Backend & Deployment**
+- Backend & Deployment**
 - REST APIs — FastAPI
 - Model Serving Endpoints
 - Docker Containerization
 - Streamlit · Flask Dashboards
 - System Integration & Testing
+
+ **⚡ Performance & Optimization**
+- Real-time inference optimization (~XX FPS on webcam streams)
+- Low-latency API responses (<XX ms)
+- Model optimization using ONNX (in progress)
+- Handling real-world conditions: low light, occlusion, noise
 
 </td>
 </tr>
@@ -189,7 +199,12 @@ If a model can't answer those questions, it's not ready.
   <sub>OCR Pipelines &nbsp;·&nbsp; Object Detection &nbsp;·&nbsp; Backend APIs</sub>
 </p>
 
+**🏗️ System Approach**
+I approach AI engineering as a systems problem:
 
+Camera/Input → Detection → Feature Extraction → Matching → Tracking → API → Output
+
+I focus on building reliable pipelines that operate under real-world constraints, not just model accuracy.
 
 ---
 
