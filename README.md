@@ -1,13 +1,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/preview.png.jpg"
        width="100%"
-       alt="Fairoos Palakkal – QA Engineer | AI Engineer | AI Testing | Agentic AI Testing | API Testing"/>
+       alt="Fairoos Palakkal – QA Engineer | AI Engineer | Computer Vision Engineer | AI Testing | Agentic AI Testing | API Testing"/>
 </p>
 <br/>
 <h1 align="center">Fairoos Palakkal</h1>
-<h3 align="center">QA Engineer &nbsp;·&nbsp; AI Testing &nbsp;·&nbsp; Agentic AI Testing &nbsp;·&nbsp; API Testing</h3>
+<h3 align="center">QA Engineer &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; Computer Vision Engineer</h3>
+<h4 align="center">AI Testing &nbsp;·&nbsp; Agentic AI Testing &nbsp;·&nbsp; API Testing</h4>
 <p align="center">
-  <em>Finding defects, validating AI-powered applications, and building reliable, evidence-based testing workflows.</em>
+  <em>Building AI-powered systems, testing intelligent applications, and improving software reliability through evidence-based validation.</em>
 </p>
 <br/>
 <p align="center">
@@ -25,7 +26,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-00C896?style=flat-square&logo=googlemaps&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20QA%20Roles-F97316?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20QA%20%26%20AI%20Roles-F97316?style=flat-square"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=fairoos-palakkal&style=flat-square&color=0A66C2&base=5000" alt="Profile views"/>
 </p>
@@ -34,162 +35,101 @@
 
 👋 About Me
 
-I’m a QA Engineer with a background in Artificial Intelligence, Machine Learning, and Computer Vision. My focus is on software quality, API validation, AI application testing, and agentic testing workflows.
+I’m a technology professional with a background in Artificial Intelligence, Machine Learning, and Computer Vision, along with practical experience in backend development and AI application evaluation.
 
-My AI engineering experience helps me understand how applications process data, interact with APIs, and generate results. I apply this knowledge to validate system behavior, identify defects, investigate unexpected outputs, and improve software reliability.
+My work and interests span software quality assurance, AI engineering, computer vision, API testing, and agentic AI testing. I have worked with AI-powered workflows and computer vision systems involving face recognition, OCR, and object detection.
 
-I am particularly interested in testing AI-powered applications and building testing workflows that combine intelligent exploration with evidence-based verification.
+My combined development and testing background helps me understand how applications work internally, validate their behavior, investigate defects, and evaluate the reliability of AI-generated results.
 
-* 🔍 Manual testing, functional testing, and regression testing
-* 🧪 Test scenarios, test cases, and exploratory testing
-* 🔌 REST API testing using Postman and Swagger
-* 🤖 AI output validation and AI application testing
-* 🧠 Agentic AI testing and autonomous test workflows
-* 🐍 Python and pytest fundamentals
-* 🐛 Defect reporting, reproduction, and verification
-* 👁️ Computer vision testing: face recognition, OCR, and object detection
-* 📊 Log analysis, input validation, and expected-versus-actual result comparison
+🔍 Quality Assurance & Testing
 
-My goal: Build reliable software by combining strong testing fundamentals with practical AI testing techniques.
+* Manual, functional, regression, and exploratory testing
+* Test scenario design, test case preparation, and defect reporting
+* REST API testing using Postman and Swagger
+* AI output evaluation and application validation
+* Agentic AI testing and evidence-based test verification
+
+🤖 AI Engineering
+
+* Python and machine learning fundamentals
+* AI application development and model evaluation
+* Large language model workflows and output evaluation
+* AI-powered automation and data processing
+* API integration and backend-connected AI systems
+
+👁️ Computer Vision
+
+* Face recognition and identity verification
+* OCR and document information extraction
+* YOLO-based object detection
+* Automatic number plate recognition (ANPR)
+* Image preprocessing, confidence thresholds, and result validation
+* FastAPI-based computer vision applications
+
+🧠 Agentic AI
+
+* Multi-agent testing workflows
+* Browser and API interaction validation
+* Evidence collection and defect investigation
+* Deterministic test verdicts and failure verification
+* Reproducible testing workflows
+
+My goal is to build and validate reliable software by combining AI engineering, computer vision, and practical software testing.
 
 ⸻
 
-🔭 Currently Focusing On
+🎯 Currently Focusing On
 
-* 🎯 Designing effective manual test cases and test scenarios.
-* 🔌 Validating API requests, responses, authentication, and error handling.
-* 🤖 Testing AI outputs for accuracy, consistency, and unexpected behavior.
-* 🧠 Developing agentic testing workflows that explore applications and collect evidence.
-* 🔍 Improving defect reproducibility and testing result verification.
-* ⚡ Learning Python-based test automation and pytest.
-* 📊 Documenting test results with clear evidence and reproducible steps.
+* Strengthening manual testing and QA fundamentals.
+* Improving API testing and test case design.
+* Building Python-based test automation skills using pytest.
+* Evaluating AI outputs for correctness, consistency, and reliability.
+* Developing agentic testing workflows with evidence-based verification.
+* Testing computer vision applications under different real-world conditions.
+* Improving defect reproduction, reporting, and regression testing.
 
 ⸻
 
 💼 Experience
 
-<table>
-<tr>
-<td width="60">
+🤖 AI Developer · Ilmora AI Solution
 
-🤖
-
-</td>
-<td>
-
-AI Developer · Ilmora AI Solution
 May 2026 – Present · Kozhikode, Kerala, India
 
-* Working with multi-model AI workflows involving large language models.
-* Contributing to AI output evaluation and A/B testing activities.
-* Evaluating generated outputs and comparing results across models and workflows.
-* Using testing and validation approaches to identify inconsistencies and improve output quality.
+* Work with multi-model AI workflows involving large language models.
+* Contribute to AI output evaluation and A/B testing activities.
+* Compare generated outputs across models and workflows.
+* Evaluate inconsistencies and apply validation approaches to improve output quality.
 
-</td>
-</tr>
-<tr>
-<td width="60">
+💻 Backend Developer · Toggle Labs
 
-💻
-
-</td>
-<td>
-
-Backend Developer · Toggle Labs
 Previous Experience · Dubai, United Arab Emirates
 
 * Worked on backend services and API-based application workflows.
-* Used technologies including TypeScript, PostgreSQL, MongoDB, and related backend tools.
-* Worked with Postman to validate API requests and responses.
-* Developed an understanding of backend behavior, data validation, and application errors.
+* Used TypeScript, PostgreSQL, MongoDB, and related backend technologies.
+* Used Postman to validate API requests and responses.
+* Developed practical knowledge of backend behavior, data validation, and application errors.
 
-</td>
-</tr>
-<tr>
-<td width="60">
+📊 Data Science Intern · ExcelR
 
-📊
-
-</td>
-<td>
-
-Data Science Intern · ExcelR
 Previous Experience · Bengaluru, India
 
 * Gained practical experience in Python, data preprocessing, and machine learning.
 * Worked with data analysis and model evaluation techniques.
 * Developed a foundation in interpreting results and validating data-driven outputs.
 
-</td>
-</tr>
-</table>
-
 ⸻
 
-🧪 Core QA Competencies
+🧪 Core Technical Skills
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-Manual Testing
-
-* Functional testing
-* Regression testing
-* Exploratory testing
-* Positive and negative testing
-* Test scenario design
-* Test case preparation
-* Expected vs. actual results
-* Defect reporting and retesting
-
-</td>
-<td valign="top" width="50%">
-
-API Testing
-
-* REST API validation
-* GET, POST, PUT, PATCH, DELETE
-* HTTP status codes
-* Request and response validation
-* Required-field validation
-* Authentication and authorization
-* Invalid input testing
-* API error handling
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-AI Testing
-
-* AI output validation
-* Response consistency
-* Edge-case testing
-* Incorrect output detection
-* Input variation testing
-* OCR field validation
-* Confidence and threshold checks
-* Evidence-based result evaluation
-
-</td>
-<td valign="top" width="50%">
-
-Agentic AI Testing
-
-* Agent behavior validation
-* Tool execution verification
-* Browser and API workflows
-* Evidence collection
-* Reproducible defect investigation
-* Deterministic verdict validation
-* Test replay and verification
-* Failure analysis
-
-</td>
-</tr>
-</table>
+Domain	Skills
+Quality Assurance	Manual Testing, Functional Testing, Regression Testing, Exploratory Testing, Test Case Design, Defect Reporting
+API Testing	REST APIs, Postman, Swagger, HTTP Methods, Status Codes, Authentication, Request and Response Validation
+AI Engineering	Python, Machine Learning Fundamentals, LLM Workflows, Model Evaluation, AI Application Validation
+Computer Vision	OpenCV, YOLOv8, Face Recognition, OCR, ANPR, Image Processing
+Agentic AI Testing	Multi-Agent Workflows, Browser and API Testing, Evidence Collection, Deterministic Verdicts, Test Replay
+Backend Development	TypeScript, FastAPI, PostgreSQL, MongoDB, API Integration
+Test Automation	Python, pytest Fundamentals, Automated Validation
 
 ⸻
 
@@ -202,15 +142,13 @@ Key Features
 * Multi-agent exploration: Agents investigate application behavior through testing workflows.
 * Browser and API testing: Collect information from application interactions and API activity.
 * Evidence collection: Capture DOM changes, screenshots, network traces, and console logs.
-* Deterministic verdict engine: Use predefined rules to determine test outcomes instead of allowing an LLM to make the final pass/fail decision.
+* Deterministic verdict engine: Apply predefined rules to determine test outcomes instead of allowing an LLM to make the final pass/fail decision.
 * Defect verification: Replay and challenge potential failures to improve reproducibility.
 * CLI workflows: Run tests, score results, and review findings.
 
-Testing Objective
+Why it matters: AI agents can explore applications flexibly, but an AI-generated conclusion should not automatically be accepted as proof that a test passed or failed.
 
-AI agents can explore applications flexibly, but an AI-generated conclusion should not automatically be treated as proof that a test passed or failed.
-
-This project explores how to combine AI-driven exploration with deterministic rules and collected evidence to produce more explainable and reproducible results.
+This project explores how AI-driven exploration can work alongside deterministic rules and collected evidence to produce more explainable and reproducible test results.
 
 Core concepts: Agentic AI, browser automation, API testing, evidence collection, deterministic verdicts, defect reproduction, and test evaluation.
 
@@ -218,150 +156,115 @@ Core concepts: Agentic AI, browser automation, API testing, evidence collection,
 
 ⸻
 
-🔌 API Testing
+👁️ Computer Vision & AI Testing Projects
 
-API testing helps verify that an application communicates correctly with its backend.
+My AI engineering background provides practical systems that can be evaluated for accuracy, reliability, and failure handling.
 
-What I Validate
-
-* Request methods and endpoints.
-* HTTP status codes.
-* Response body and required fields.
-* Data types and validation rules.
-* Missing, invalid, and unexpected inputs.
-* Authentication and authorization behavior.
-* Error messages and failure responses.
-* Actual results compared with expected results.
-
-Tools: Postman, Swagger, Python, and pytest.
-
-⸻
-
-🧠 AI Testing Projects
-
-My AI and Computer Vision background provides practical systems that can be tested for accuracy, reliability, and failure handling.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🪪 Emirates ID and Passport OCR
+🪪 Emirates ID & Passport OCR
 
 An OCR-based system that extracts information from identity documents.
 
-Testing scenarios:
+Testing scenarios
 
-* Validate required response fields.
-* Check missing or incorrect extracted values.
+* Validate required response fields and extracted values.
 * Test blurry, incomplete, and invalid images.
-* Validate unsupported inputs and error responses.
-* Compare extracted values with known test data.
+* Check missing or incorrectly extracted information.
+* Verify unsupported inputs and API error responses.
+* Compare extracted values against known test data.
 
-</td>
-<td width="50%" valign="top">
-
-🚘 Automatic Number Plate Recognition
+🚘 Automatic Number Plate Recognition (ANPR)
 
 A computer vision system for vehicle and license plate detection.
 
-Testing scenarios:
+Testing scenarios
 
 * Test different lighting conditions.
-* Validate blurry and partially obscured plates.
+* Validate blurry and partially obscured number plates.
 * Check incorrect or incomplete OCR output.
 * Test images containing multiple vehicles.
 * Verify timestamps and saved results.
 
 🔗 View ANPR Repository
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 👤 SentryID — Face Recognition
 
 A face recognition system designed for identity verification and surveillance workflows.
 
-Testing scenarios:
+Testing scenarios
 
 * Verify matching and non-matching faces.
-* Test confidence thresholds.
-* Check uncertain identification results.
-* Evaluate lighting and occlusion conditions.
+* Test confidence thresholds and uncertain results.
+* Evaluate lighting and face occlusion.
 * Validate API authentication and event logs.
+* Investigate false matches and missed detections.
 
 🔗 View SentryID Repository
-
-</td>
-<td width="50%" valign="top">
 
 📄 Trade License OCR
 
 A document-processing system that extracts structured information from trade licenses.
 
-Testing scenarios:
+Testing scenarios
 
-* Validate extracted company and license details.
+* Validate company and license details.
 * Check missing or incorrectly extracted fields.
 * Test invalid documents and unexpected inputs.
-* Verify response structure and data types.
+* Verify response structures and data types.
 * Check API error handling.
 
 🔗 Explore My GitHub Repositories
 
-</td>
-</tr>
-</table>
-
 ⸻
 
-⚙️ Testing Tools and Technologies
+⚙️ Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Manual%20Testing-QA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/QA%20%26%20Manual%20Testing-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Testing-REST-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-Models-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Testing-Evaluation-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-Testing-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ⸻
 
 📈 My Testing Approach
 
-I approach testing with a simple principle: every test should have a clear objective and an expected result.
+Every test should have a clear objective, an expected result, and evidence of the actual result.
 
 Understand Requirements
-        ↓
+↓
 Identify Test Scenarios
-        ↓
+↓
 Prepare Test Cases and Test Data
-        ↓
+↓
 Execute Tests
-        ↓
+↓
 Compare Actual vs. Expected Results
-        ↓
+↓
 Report Defects with Evidence
-        ↓
+↓
 Retest Fixes and Perform Regression Testing
-        ↓
+↓
 Document Results
 
-For AI-powered systems, I also consider input variation, output consistency, uncertainty, and cases where the system produces an incorrect or inconclusive result.
+For AI-powered systems, I also examine input variation, output consistency, uncertainty, and incorrect or inconclusive results.
 
-For agentic testing, I focus on collecting evidence, validating tool execution, checking deterministic verdict rules, and reproducing potential defects.
+For agentic testing, I focus on verifying actions, collecting evidence, checking deterministic verdict rules, and reproducing potential defects.
+
+For computer vision systems, I consider image quality, lighting, occlusion, detection confidence, and the accuracy of extracted or recognized information.
 
 ⸻
 
@@ -372,22 +275,26 @@ For agentic testing, I focus on collecting evidence, validating tool execution, 
 * Developing Python-based test automation skills.
 * Learning systematic evaluation methods for AI applications.
 * Improving agentic testing reliability and defect reproducibility.
+* Testing computer vision systems under real-world conditions.
 * Building practical projects with documented test cases and results.
-* Preparing for QA Engineer, AI Testing, and Agentic AI Testing roles.
 
 ⸻
 
 📂 Explore My Repositories
 
-Explore my projects involving:
+Explore my work across:
 
-* Agentic AI testing workflows.
-* API validation and backend systems.
-* OCR and document processing.
-* Face recognition and computer vision.
-* Python-based AI applications.
+* 🤖 Agentic AI testing workflows.
+* 🧠 AI engineering and machine learning.
+* 👁️ Computer vision and face recognition.
+* 🪪 OCR and document processing.
+* 🚘 Automatic number plate recognition.
+* 🔌 API validation and backend systems.
+* 🐍 Python-based AI applications.
 
 🔗 View All My GitHub Repositories
+
+🌐 Visit My Portfolio
 
 ⸻
 
@@ -419,7 +326,7 @@ Explore my projects involving:
 
 Quality is not just about finding bugs. It is about building confidence in how a system behaves.
 
-My approach to testing focuses on three questions:
+My approach focuses on three questions:
 
 1. Expected behavior: What should the system do?
 2. Actual behavior: What does the system really do?
@@ -427,7 +334,9 @@ My approach to testing focuses on three questions:
 
 For traditional software, I validate functionality, inputs, outputs, and error handling.
 
-For AI systems, I also examine output correctness, consistency, uncertainty, and edge cases.
+For AI systems, I examine output correctness, consistency, uncertainty, and edge cases.
+
+For computer vision systems, I evaluate detection, recognition, and extraction results under different conditions.
 
 For agentic systems, I verify actions, collected evidence, and the rules used to determine whether a test passed or failed.
 
@@ -457,10 +366,12 @@ For agentic systems, I verify actions, collected evidence, and the rules used to
 <p align="center">
   <strong>Fairoos Palakkal</strong>
   <br/>
-  QA Engineer · AI Testing · Agentic AI Testing
+  QA Engineer · AI Engineer · Computer Vision Engineer
+  <br/>
+  AI Testing · Agentic AI Testing · API Testing
   <br/>
   <sub>Abu Dhabi, United Arab Emirates</sub>
 </p>
 <p align="center">
-  <sub>⭐ Explore my repositories and follow my journey in software quality and AI testing.</sub>
+  <sub>⭐ Explore my repositories and follow my journey across software quality, AI engineering, and computer vision.</sub>
 </p>
