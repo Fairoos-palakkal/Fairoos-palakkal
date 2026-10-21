@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/preview.png.jpg"
        width="100%"
-       alt="Fairoos Palakkal – QA Engineer and Agentic AI Testing"/>
+       alt="Fairoos Palakkal – QA Engineer | AI Engineer | AI Testing | Agentic AI Testing | API Testing"/>
 </p>
 <br/>
 <h1 align="center">Fairoos Palakkal</h1>
