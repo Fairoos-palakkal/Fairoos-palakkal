@@ -28,7 +28,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20QA%20%26%20AI%20Roles-F97316?style=flat-square"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=fairoos-palakkal&style=flat-square&color=0A66C2&base=5000" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=fairoos-palakkal&style=flat-square&color=0A66C2&base=100000" alt="Profile views"/>
 </p>
 
 ⸻
