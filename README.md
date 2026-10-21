@@ -1,350 +1,397 @@
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/preview.png.jpg"
        width="100%"
-       alt="Fairoos Palakkal – Senior AI Developer Banner"/>
+       alt="Fairoos Palakkal – QA Engineer and Agentic AI Testing"/>
 </p>
-
 <br/>
-
 <h1 align="center">Fairoos Palakkal</h1>
-
-<h3 align="center">Senior AI Developer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Computer Vision Specialist</h3>
-
+<h3 align="center">QA Engineer &nbsp;·&nbsp; AI Testing &nbsp;·&nbsp; Agentic AI Testing &nbsp;·&nbsp; API Testing</h3>
 <p align="center">
-  <em>Building production-grade AI systems that work beyond notebooks — deployed, measured, and battle-tested.</em>
+  <em>Finding defects, validating AI-powered applications, and building reliable, evidence-based testing workflows.</em>
 </p>
-
 <br/>
-
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-fairoos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Fairoos%20Palakkal-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:fairoospalakkal35@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fairoospalakkal35%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:fairospalakkal35@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Fairoos-palakkal">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-00C896?style=flat-square&logo=googlemaps&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Senior%20AI%20%2F%20ML%20Roles-F97316?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20QA%20Roles-F97316?style=flat-square"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=fairoos-palakkal&style=flat-square&color=0A66C2&base=5000" alt="Profile views"/>
 </p>
 
----
+⸻
 
-## 👋 About
+👋 About Me
 
-I design and build **real-time computer vision systems** for surveillance, identity verification, and document automation — deployed in production environments across the UAE.
+I’m a QA Engineer with a background in Artificial Intelligence, Machine Learning, and Computer Vision. My focus is on software quality, API validation, AI application testing, and agentic testing workflows.
 
-My work spans the full AI lifecycle: data pipelines → model training → low-latency inference → scalable API deployment. I specialize in **face recognition**, **object detection (YOLOv8)**, **OCR pipelines**, and **multi-camera tracking systems**.
+My AI engineering experience helps me understand how applications process data, interact with APIs, and generate results. I apply this knowledge to validate system behavior, identify defects, investigate unexpected outputs, and improve software reliability.
 
-I ship systems that are **measurable** (FPS, latency, accuracy), **robust** (handles lighting, occlusion, noise), and **production-ready** (containerized, API-served, monitored).
+I am particularly interested in testing AI-powered applications and building testing workflows that combine intelligent exploration with evidence-based verification.
 
----
+* 🔍 Manual testing, functional testing, and regression testing
+* 🧪 Test scenarios, test cases, and exploratory testing
+* 🔌 REST API testing using Postman and Swagger
+* 🤖 AI output validation and AI application testing
+* 🧠 Agentic AI testing and autonomous test workflows
+* 🐍 Python and pytest fundamentals
+* 🐛 Defect reporting, reproduction, and verification
+* 👁️ Computer vision testing: face recognition, OCR, and object detection
+* 📊 Log analysis, input validation, and expected-versus-actual result comparison
 
-## 🔭 Currently Building
+My goal: Build reliable software by combining strong testing fundamentals with practical AI testing techniques.
 
-- 🎯 **Multi-camera AI surveillance** with real-time face recognition + ByteTrack tracking
-- 📄 **Document intelligence pipelines** for Emirates ID and passport processing (YOLO + EasyOCR + MRZ)
-- ⚡ **Inference optimization** with ONNX Runtime for edge deployment
-- 🏗️ **End-to-end MLOps** workflows — training → evaluation → API deployment → monitoring
+⸻
 
----
+🔭 Currently Focusing On
 
-## 💼 Experience
+* 🎯 Designing effective manual test cases and test scenarios.
+* 🔌 Validating API requests, responses, authentication, and error handling.
+* 🤖 Testing AI outputs for accuracy, consistency, and unexpected behavior.
+* 🧠 Developing agentic testing workflows that explore applications and collect evidence.
+* 🔍 Improving defect reproducibility and testing result verification.
+* ⚡ Learning Python-based test automation and pytest.
+* 📊 Documenting test results with clear evidence and reproducible steps.
+
+⸻
+
+💼 Experience
 
 <table>
 <tr>
-<td width="80">
+<td width="60">
 
-**🔵**
+🤖
 
 </td>
 <td>
 
-**Artificial Intelligence Engineer** · [Ilmora AI Solutions](https://linkedin.com/in/mohammed-fairoos)
-`Aug 2025 – Present` · Kozhikode, Kerala, India
+AI Developer · Ilmora AI Solution
+May 2026 – Present · Kozhikode, Kerala, India
 
-- Designing and deploying production AI systems including real-time face recognition surveillance (SentryID) and document intelligence pipelines
-- Building end-to-end ML workflows: data pipelines → model training → API deployment → monitoring
-- Developing computer vision solutions for identity verification, access control, and document automation
+* Working with multi-model AI workflows involving large language models.
+* Contributing to AI output evaluation and A/B testing activities.
+* Evaluating generated outputs and comparing results across models and workflows.
+* Using testing and validation approaches to identify inconsistencies and improve output quality.
 
 </td>
 </tr>
 <tr>
-<td width="80">
+<td width="60">
 
-**🟦**
+💻
 
 </td>
 <td>
 
-**Computer Vision Engineer** · [Toglelabs](https://linkedin.com/in/mohammed-fairoos)
-`Jun 2025 – Present` · Dubai, United Arab Emirates
+Backend Developer · Toggle Labs
+Previous Experience · Dubai, United Arab Emirates
 
-- Building real-time computer vision systems for surveillance and automation in UAE production environments
-- Implementing YOLOv8 object detection, face recognition (ArcFace/FaceNet), and multi-object tracking (ByteTrack)
-- Developing Emirates ID & Passport OCR scanning systems (YOLO + EasyOCR + PassportEye MRZ parsing)
-- Optimizing inference pipelines for low-latency, high-throughput video processing
+* Worked on backend services and API-based application workflows.
+* Used technologies including TypeScript, PostgreSQL, MongoDB, and related backend tools.
+* Worked with Postman to validate API requests and responses.
+* Developed an understanding of backend behavior, data validation, and application errors.
 
 </td>
 </tr>
 <tr>
-<td width="80">
+<td width="60">
 
-**🟦**
-
-</td>
-<td>
-
-**Back End Developer** · [Toglelabs](https://linkedin.com/in/mohammed-fairoos)
-`Jul 2025 – Apr 2026` · Dubai, United Arab Emirates
-
-- Developed RESTful APIs using FastAPI for AI model serving and document processing endpoints
-- Built scalable backend services with Pydantic v2 validation, CORS middleware, and structured error handling
-- Integrated ML model inference into production API pipelines with processing time tracking
-
-</td>
-</tr>
-<tr>
-<td width="80">
-
-**🟢**
+📊
 
 </td>
 <td>
 
-**Data Science Intern** · [ExcelR](https://linkedin.com/in/mohammed-fairoos)
-`Jun 2024 – Jul 2025` · Bengaluru, India
+Data Science Intern · ExcelR
+Previous Experience · Bengaluru, India
 
-- Completed intensive professional training in Data Science and AI with hands-on projects
-- Built regression, classification, and clustering models using Scikit-learn, LightGBM, and XGBoost
-- Developed the Solar Power Forecasting system — LightGBM model with Streamlit dashboard
-- Gained expertise in EDA, feature engineering, statistical modeling, and model evaluation
-
-</td>
-</tr>
-<tr>
-<td width="80">
-
-**🔷**
-
-</td>
-<td>
-
-**Internship Trainee** · [ADTEC-MESCE](https://linkedin.com/in/mohammed-fairoos)
-`Sep 2023 – Mar 2024` · 7 months
-
-- Applied AI and data science fundamentals in practical industry projects
-- Worked on machine learning model development and data preprocessing pipelines
-
-</td>
-</tr>
-<tr>
-<td width="80">
-
-**🟣**
-
-</td>
-<td>
-
-**Data Science Intern** · [Revertech IT Solutions Pvt Ltd](https://linkedin.com/in/mohammed-fairoos)
-`Mar 2023 – Apr 2023` · Kochi, Kerala, India
-
-- First professional exposure to data science workflows and Python-based analytics
-- Worked on data cleaning, exploratory data analysis, and basic ML model prototyping
+* Gained practical experience in Python, data preprocessing, and machine learning.
+* Worked with data analysis and model evaluation techniques.
+* Developed a foundation in interpreting results and validating data-driven outputs.
 
 </td>
 </tr>
 </table>
 
----
+⸻
 
-## 🎓 Education
+🧪 Core QA Competencies
 
 <table>
 <tr>
-<td width="80">
+<td valign="top" width="50%">
 
-**🏛️**
+Manual Testing
+
+* Functional testing
+* Regression testing
+* Exploratory testing
+* Positive and negative testing
+* Test scenario design
+* Test case preparation
+* Expected vs. actual results
+* Defect reporting and retesting
 
 </td>
-<td>
+<td valign="top" width="50%">
 
-**B.Tech — Artificial Intelligence & Data Science Engineering**
-[MES College of Engineering, Kuttipuram](https://linkedin.com/in/mohammed-fairoos) · APJ Abdul Kalam Technological University
-`2020 – 2024`
+API Testing
 
-- Specialized in AI, Machine Learning, Computer Vision, and Data Science
-- Built foundational projects: Face-Based Attendance System, regression models, classification pipelines
+* REST API validation
+* GET, POST, PUT, PATCH, DELETE
+* HTTP status codes
+* Request and response validation
+* Required-field validation
+* Authentication and authorization
+* Invalid input testing
+* API error handling
 
 </td>
 </tr>
 <tr>
-<td width="80">
+<td valign="top" width="50%">
 
-**📜**
+AI Testing
+
+* AI output validation
+* Response consistency
+* Edge-case testing
+* Incorrect output detection
+* Input variation testing
+* OCR field validation
+* Confidence and threshold checks
+* Evidence-based result evaluation
 
 </td>
-<td>
+<td valign="top" width="50%">
 
-**Professional Training — Data Science / AI**
-[ExcelR — Data Science & Data Analytics Training](https://linkedin.com/in/mohammed-fairoos) · Bangalore
-`2024 – 2025`
+Agentic AI Testing
 
-- Advanced training in ML algorithms, deep learning, statistical modeling, and deployment
-- Hands-on projects with real-world datasets and industry-standard tools
+* Agent behavior validation
+* Tool execution verification
+* Browser and API workflows
+* Evidence collection
+* Reproducible defect investigation
+* Deterministic verdict validation
+* Test replay and verification
+* Failure analysis
 
 </td>
 </tr>
 </table>
 
----
+⸻
 
-## ⚙️ Tech Stack
+🤖 Featured Project: Agentic QA Command Center
 
+An agent-based testing project designed to explore web applications, collect evidence, identify potential defects, and produce reproducible testing results.
+
+Key Features
+
+* Multi-agent exploration: Agents investigate application behavior through testing workflows.
+* Browser and API testing: Collect information from application interactions and API activity.
+* Evidence collection: Capture DOM changes, screenshots, network traces, and console logs.
+* Deterministic verdict engine: Use predefined rules to determine test outcomes instead of allowing an LLM to make the final pass/fail decision.
+* Defect verification: Replay and challenge potential failures to improve reproducibility.
+* CLI workflows: Run tests, score results, and review findings.
+
+Testing Objective
+
+AI agents can explore applications flexibly, but an AI-generated conclusion should not automatically be treated as proof that a test passed or failed.
+
+This project explores how to combine AI-driven exploration with deterministic rules and collected evidence to produce more explainable and reproducible results.
+
+Core concepts: Agentic AI, browser automation, API testing, evidence collection, deterministic verdicts, defect reproduction, and test evaluation.
+
+🔗 Explore My GitHub Repositories
+
+⸻
+
+🔌 API Testing
+
+API testing helps verify that an application communicates correctly with its backend.
+
+What I Validate
+
+* Request methods and endpoints.
+* HTTP status codes.
+* Response body and required fields.
+* Data types and validation rules.
+* Missing, invalid, and unexpected inputs.
+* Authentication and authorization behavior.
+* Error messages and failure responses.
+* Actual results compared with expected results.
+
+Tools: Postman, Swagger, Python, and pytest.
+
+⸻
+
+🧠 AI Testing Projects
+
+My AI and Computer Vision background provides practical systems that can be tested for accuracy, reliability, and failure handling.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🪪 Emirates ID and Passport OCR
+
+An OCR-based system that extracts information from identity documents.
+
+Testing scenarios:
+
+* Validate required response fields.
+* Check missing or incorrect extracted values.
+* Test blurry, incomplete, and invalid images.
+* Validate unsupported inputs and error responses.
+* Compare extracted values with known test data.
+
+</td>
+<td width="50%" valign="top">
+
+🚘 Automatic Number Plate Recognition
+
+A computer vision system for vehicle and license plate detection.
+
+Testing scenarios:
+
+* Test different lighting conditions.
+* Validate blurry and partially obscured plates.
+* Check incorrect or incomplete OCR output.
+* Test images containing multiple vehicles.
+* Verify timestamps and saved results.
+
+🔗 View ANPR Repository
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+👤 SentryID — Face Recognition
+
+A face recognition system designed for identity verification and surveillance workflows.
+
+Testing scenarios:
+
+* Verify matching and non-matching faces.
+* Test confidence thresholds.
+* Check uncertain identification results.
+* Evaluate lighting and occlusion conditions.
+* Validate API authentication and event logs.
+
+🔗 View SentryID Repository
+
+</td>
+<td width="50%" valign="top">
+
+📄 Trade License OCR
+
+A document-processing system that extracts structured information from trade licenses.
+
+Testing scenarios:
+
+* Validate extracted company and license details.
+* Check missing or incorrectly extracted fields.
+* Test invalid documents and unexpected inputs.
+* Verify response structure and data types.
+* Check API error handling.
+
+🔗 Explore My GitHub Repositories
+
+</td>
+</tr>
+</table>
+
+⸻
+
+⚙️ Testing Tools and Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual%20Testing-QA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Testing-REST-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Testing-Evaluation-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Testing-black?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
----
+⸻
 
-## 🧠 Core Competencies
+📈 My Testing Approach
 
-<table>
-<tr>
-<td valign="top" width="25%">
+I approach testing with a simple principle: every test should have a clear objective and an expected result.
 
-**👁️ Computer Vision**
-- Face Recognition (ArcFace / FaceNet)
-- Object Detection — YOLOv8
-- OCR Pipelines (Emirates ID, Passport, Trade License)
-- Multi-Object Tracking (ByteTrack)
-- License Plate Recognition
-- Real-time Video Analytics
+Understand Requirements
+        ↓
+Identify Test Scenarios
+        ↓
+Prepare Test Cases and Test Data
+        ↓
+Execute Tests
+        ↓
+Compare Actual vs. Expected Results
+        ↓
+Report Defects with Evidence
+        ↓
+Retest Fixes and Perform Regression Testing
+        ↓
+Document Results
 
-</td>
-<td valign="top" width="25%">
+For AI-powered systems, I also consider input variation, output consistency, uncertainty, and cases where the system produces an incorrect or inconclusive result.
 
-**🤖 Machine Learning**
-- Supervised & Unsupervised Learning
-- Deep Neural Networks
-- Transfer Learning & Fine-Tuning
-- Model Evaluation & Hyperparameter Tuning
-- Gradient Boosting (LightGBM, XGBoost)
-- Time-Series Forecasting
+For agentic testing, I focus on collecting evidence, validating tool execution, checking deterministic verdict rules, and reproducing potential defects.
 
-</td>
-<td valign="top" width="25%">
+⸻
 
-**📊 Data Engineering**
-- Exploratory Data Analysis
-- Feature Engineering
-- Data Cleaning & ETL Pipelines
-- Statistical Modeling
-- Regression · Classification · Clustering
+📚 Current Learning Goals
 
-</td>
-<td valign="top" width="25%">
+* Strengthening manual testing fundamentals.
+* Improving API testing and test case design.
+* Developing Python-based test automation skills.
+* Learning systematic evaluation methods for AI applications.
+* Improving agentic testing reliability and defect reproducibility.
+* Building practical projects with documented test cases and results.
+* Preparing for QA Engineer, AI Testing, and Agentic AI Testing roles.
 
-**🚀 Deployment & Systems**
-- REST APIs — FastAPI / Flask
-- Model Serving & Inference Endpoints
-- Docker Containerization
-- Streamlit Dashboards
-- ONNX Runtime Optimization
-- System Integration & Testing
+⸻
 
-</td>
-</tr>
-</table>
+📂 Explore My Repositories
 
----
+Explore my projects involving:
 
-## 🗂️ Featured Projects
+* Agentic AI testing workflows.
+* API validation and backend systems.
+* OCR and document processing.
+* Face recognition and computer vision.
+* Python-based AI applications.
 
-<table>
-<tr>
-<td width="50%">
+🔗 View All My GitHub Repositories
 
-### 🎯 [SentryID — Real-Time Face Recognition Surveillance](https://github.com/Fairoos-palakkal/sentryid-Real-time-Face-Recognition-Surveillance-Intelligent-Access-Control-System)
-**RetinaFace · ArcFace · ByteTrack · FAISS · FastAPI**
+⸻
 
-Production-grade multi-camera surveillance system with real-time face detection, recognition, and intelligent access control. Features sub-second identification with 99.7%+ accuracy using FAISS vector similarity search.
-
-</td>
-<td width="50%">
-
-### 🔍 [SCANNER API — Document Intelligence System](https://github.com/Fairoos-palakkal/SCANNER-API)
-**YOLOv8 · EasyOCR · PassportEye · FastAPI · Pydantic v2**
-
-Dual-pipeline document scanning system for Emirates ID (YOLO field detection + OCR) and Passport (MRZ parsing, ICAO 9303 compliant). Per-field confidence scoring with geometric mean aggregation.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📜 [Trade License OCR Pipeline](https://github.com/Fairoos-palakkal/trade-license-ocr)
-**YOLOv8 · Roboflow · FastAPI · Pydantic v2**
-
-Automated extraction of structured data from Abu Dhabi Trade License documents. Custom-trained YOLO model detects key fields, OCR extracts text, and an intelligent parser normalizes output to JSON.
-
-</td>
-<td width="50%">
-
-### 🌞 [AI for Solar Forecasting](https://github.com/Fairoos-palakkal/AI-for-Solar-Forecasting)
-**LightGBM · Streamlit · Scikit-learn · Pandas**
-
-ML system predicting solar panel energy output from 8 environmental features. Trained on 2,920 real-world samples with interactive Streamlit dashboard for real-time predictions.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👤 [Face-Based Attendance System](https://github.com/Fairoos-palakkal/Facebased-Attendence-Project)
-**OpenCV · LBPH · Haar Cascade · Pandas**
-
-Real-time facial recognition attendance automation using LBPH face recognizer. Captures, trains, and identifies individuals with 67%+ confidence threshold, logging attendance to timestamped CSV files.
-
-</td>
-<td width="50%">
-
-### 🔮 More Projects Coming...
-**Building in public — new repos shipping regularly.**
-
-Currently working on multi-camera tracking systems, edge-optimized inference pipelines, and Arabic OCR support for UAE government documents.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img
@@ -359,44 +406,34 @@ Currently working on multi-camera tracking systems, edge-optimized inference pip
     alt="Top Languages"
   />
 </p>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=fairoos-palakkal&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
----
+⸻
 
-## 💡 Engineering Philosophy
+💡 My Quality Philosophy
 
-> **Every AI system I build answers three questions:**
-> 1. What problem does it solve?
-> 2. What does the output look like?
-> 3. How do you measure whether it worked?
+Quality is not just about finding bugs. It is about building confidence in how a system behaves.
 
-I approach AI engineering as a **systems problem**, not just a modeling exercise:
+My approach to testing focuses on three questions:
 
-```
-Input → Detection → Feature Extraction → Matching → Tracking → API → Output
-```
+1. Expected behavior: What should the system do?
+2. Actual behavior: What does the system really do?
+3. Evidence: Can I reproduce and demonstrate the result?
 
-The model is one component. The **system** includes data ingestion, preprocessing, inference optimization, error handling, monitoring, and deployment. If it doesn't run reliably in production, it's not done.
+For traditional software, I validate functionality, inputs, outputs, and error handling.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fairoos-palakkal/Fairoos-palakkal/main/assets/images/demo.gif"
-       width="800"
-       alt="AI Systems Demo — OCR Pipelines · Object Detection · Backend APIs"/>
-</p>
+For AI systems, I also examine output correctness, consistency, uncertainty, and edge cases.
 
-<p align="center">
-  <sub>OCR Pipelines &nbsp;·&nbsp; Object Detection &nbsp;·&nbsp; Real-Time Inference &nbsp;·&nbsp; Production APIs</sub>
-</p>
+For agentic systems, I verify actions, collected evidence, and the rules used to determine whether a test passed or failed.
 
----
+⸻
 
-## 🔗 Let's Connect
+🔗 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-fairoos" target="_blank">
@@ -407,19 +444,23 @@ The model is one component. The **system** includes data ingestion, preprocessin
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:fairoospalakkal35@gmail.com">
+  <a href="mailto:fairospalakkal35@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<br/>
-
 <p align="center">
-  <strong>Fairoos Palakkal</strong> · Senior AI Developer · Abu Dhabi, UAE
-  <br/>
-  <sub>Open to senior AI/ML engineering roles — remote or UAE-based</sub>
+  <a href="https://fairoospalakkal.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
-
+<br/>
 <p align="center">
-  <sub>⭐ If any of my projects helped you, a star goes a long way!</sub>
+  <strong>Fairoos Palakkal</strong>
+  <br/>
+  QA Engineer · AI Testing · Agentic AI Testing
+  <br/>
+  <sub>Abu Dhabi, United Arab Emirates</sub>
+</p>
+<p align="center">
+  <sub>⭐ Explore my repositories and follow my journey in software quality and AI testing.</sub>
 </p>
